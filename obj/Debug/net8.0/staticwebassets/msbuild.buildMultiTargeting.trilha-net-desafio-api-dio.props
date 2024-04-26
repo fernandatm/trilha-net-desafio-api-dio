@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\trilha-net-desafio-api-dio.props" />
+</Project>
