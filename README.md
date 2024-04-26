@@ -18,9 +18,11 @@ O schema de Tarefa é o seguinte:
 ![Schema da classe Tarefa](image.png)
 
 Os métodos criados pordem ser visualizados no Swagger:
+
 ![Métodos no Swagger](image-1.png)
 
 A tabela "Tarefas" no DB Sql Server:
+
 ![Tabela Tarefas no Sql Server](image-2.png)
 
 Todos os métodos criados tiveram execuções bem sucedidas e retornaram os resultados esperados.
